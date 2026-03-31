@@ -1,6 +1,6 @@
 # React with tankStack Query 
 
-## its State management library for the server side 
+## its State management library for the server data
 
 > features 
 1) Minimal like useQuery for GET and useMutation  for PUT/POST etc
